@@ -1,6 +1,6 @@
 {
-  "name": "CheemsBot-MD",
-  "version": "4.0.0",
+  "name": "Anya-bot",
+  "version": "1.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "xeon.js",
   "type": "commonjs",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Xeon",
+  "author": "Christmaster",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
